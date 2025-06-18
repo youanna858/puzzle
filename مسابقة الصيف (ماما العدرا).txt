@@ -15,8 +15,8 @@
 
   <h2>🎉 مسابقة البازل - إبني بيتك على الصخرة 🎉</h2>
 
-  <!-- البازل -->
-  <iframe src="https://puzzel.org/en/jigsaw/play?p=-OT--35SDUP9-o3M2uIR" width="800" height="600"></iframe>
+  <!-- البازل الجديد -->
+  <iframe src="https://im-a-puzzle.com/share/736d09f28b62c85" width="800" height="600" style="border: none;"></iframe>
 
   <!-- نموذج تسجيل الاسم -->
   <form action="https://docs.google.com/forms/d/e/1FAIpQLScVQIylZhHNp3zPCMdzxTw0ZjIZal4e031GDzxpxTtPLZTKww/viewform?usp=header" method="POST" target="_blank">
